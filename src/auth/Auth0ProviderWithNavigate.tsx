@@ -1,4 +1,3 @@
-import { useCreateMyUser } from "@/api/MyUserApi";
 
 import { Auth0Provider } from "@auth0/auth0-react";
 import { useNavigate } from "react-router-dom";
