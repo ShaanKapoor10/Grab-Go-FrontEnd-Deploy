@@ -44,6 +44,7 @@ const SearchPage = () => {
     }));
   };
 
+ 
   const setPage = (page: number) => {
     setSearchState((prevState) => ({
       ...prevState,
