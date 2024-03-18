@@ -80,6 +80,7 @@ const DetailPage = () => {
   };
 
   const onCheckout = async (userFormData: UserFormData) => {
+    console.log(userFormData);
     if (!restaurant) {
       return;
     }
