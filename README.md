@@ -15,12 +15,12 @@ The backend exposes REST APIs for restaurants, orders, and user management, whil
 
 <div>
     <div classname = "flex flex-col md:flex-row">
-        <img src="./src/assets/r1.png" alt="Home page dashboard view" width="700" height ="400" />
+        <img src="./src/assets/r1.png" alt="Home page dashboard view" width="500" height ="400" />
         <img src="./src/assets/r1m.png" alt="Home page mobile view" width="200" height ="400" />
     </div>
     <p>Home page</p>
     <div classname = "flex flex-col md:flex-row">
-        <img src="./src/assets/r2.png" alt="Restaurant detail dashboard view" width="700" height ="400" />
+        <img src="./src/assets/r2.png" alt="Restaurant detail dashboard view" width="500" height ="400" />
         <img src="./src/assets/r2m.png" alt="Restaurant detail mobile view" width="200" height ="400" />
     </div>
     <p>Manage restaurant page</p>
